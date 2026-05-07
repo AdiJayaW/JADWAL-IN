@@ -1,0 +1,13 @@
+[
+    {"nim": 252011114, "hari": "Senin", "jam": "10:00", "mata_kuliah": "Analisis Algoritma", "ruang": "Lab Komputer A"},
+    {"nim": 252011114, "hari": "Senin", "jam": "08:00", "mata_kuliah": "Pemrograman Web", "ruang": "R. 101"},
+
+    {"nim": 252011201, "hari": "Kamis", "jam": "08:40", "mata_kuliah": "Technology in Practice 2", "ruang": "R. India"},
+    {"nim": 252011201, "hari": "Selasa", "jam": "13:00", "mata_kuliah": "UI/UX", "ruang": "R. Lab D"},
+    {"nim": 252011201, "hari": "Rabu", "jam": "13:00", "mata_kuliah": "Interaksi Manusia dan Komputer", "ruang": "R. Melbourne"},
+    {"nim": 252011201, "hari": "Kamis", "jam": "13:00", "mata_kuliah": "Analisis Algoritma dan Struktur Data", "ruang": "R. Lab E"},
+    {"nim": 252011201, "hari": "Senin", "jam": "07:50", "mata_kuliah": "Critical Thinking", "ruang": "R. India"},
+    {"nim": 252011201, "hari": "Selasa", "jam": "10:20", "mata_kuliah": "English Conversation", "ruang": "R. Philipina"},
+    {"nim": 252011201, "hari": "Senin", "jam": "15:30", "mata_kuliah": "Pemrograman Berorientasi Objek", "ruang": "R. Lab D"},
+    {"nim": 252011201, "hari": "Jumat", "jam": "08:40", "mata_kuliah": "Matematika Teknik 2", "ruang": "R. Berkeley"}
+]
