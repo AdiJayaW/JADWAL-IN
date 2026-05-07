@@ -34,4 +34,4 @@ Proyek ini dikembangkan untuk memenuhi tugas mata kuliah Analisis Algoritma dan 
 
 **Program Studi Teknik Informatika** 
 **Fakultas Teknologi dan Desain** 
-**Institut Teknologi dan Bisnis Asia Malang** [cite: 10]
+**Institut Teknologi dan Bisnis Asia Malang**
